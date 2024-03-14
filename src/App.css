@@ -1,0 +1,15 @@
+#root{
+  display: grid;
+}
+header{
+  background-color: aqua;
+}
+aside{
+  background-color: blueviolet;
+}
+main{
+  background-color: burlywood;
+}
+footer{
+  background-color: chartreuse;
+}
