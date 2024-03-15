@@ -1,0 +1,12 @@
+footer{
+    background-color: var(--cor-fundo-padrao);
+    grid-area: Rodape;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-copyright{
+    color: brown;
+}

@@ -1,3 +1,5 @@
+import './LadoEsquerdo.css';
+
 const LadoEsquerdo = () => {
    return <aside>LadoEsquerdo</aside>
 };

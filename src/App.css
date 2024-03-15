@@ -1,5 +1,12 @@
 #root{
   display: grid;
+  grid-template-areas:
+    'Cabecalho Cabecalho'
+    'LadoEsquerdo Meio'
+    'Rodape Rodape';
+
+  grid-template-rows: 64px 1fr 88px;
+  grid-template-columns: 288px 1fr;
 }
 header{
   background-color: aqua;
